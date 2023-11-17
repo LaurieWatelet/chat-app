@@ -4,15 +4,12 @@ import { RouterLink } from "vue-router";
 
 <template>
 <header>
-  <h1>Site de Laurie Watelet</h1>
   <nav>
-    <a href=""></a>
-    <a href=""></a>
-
+    <a href="">Accueil</a>
+    <a href="">Portfolio</a>
   </nav>
 
-
 </header>
-
+<img src="img/feuilles.jpg">
 
 </template>

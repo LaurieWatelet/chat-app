@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body{
+  background-color: rgb(83, 130, 114);
+}
+header{
+  background-color: black;
+}
+a{
+  color: rgb(224, 14, 14);
+  padding:25px;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+img{
+  padding:50px;
+  width:500px;
+  height:auto;
+}
